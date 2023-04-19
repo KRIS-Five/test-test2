@@ -1,0 +1,4 @@
+[submodule "pipeline"]
+	path = pipeline
+	url = https://repo.rik.ee/Pipelines/Jenkins.git
+	branch = TEST
